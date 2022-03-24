@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  project   = "aldis-labs"
+  project   = "aldis-labs-345108"
   region    = "asia-southeast2"
   zone      = "asia-southeast2-a"      
 }
